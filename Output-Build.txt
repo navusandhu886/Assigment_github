@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Amandeep_Lab1, Configuration: Debug Any CPU ------
+1>C:\Amandeep_Lab1\Amandeep_Lab1\Amandeep_Lab1\Default.aspx.cs(34,13,34,37): error CS0103: The name 'lbl_CalculateFutureValue' does not exist in the current context
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
